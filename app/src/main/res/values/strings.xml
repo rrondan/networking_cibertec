@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase Networking</string>
+    <string name="title">Titulo:</string>
+    <string name="enter_title">Ingrese un titulo</string>
+    <string name="content">Contenido:</string>
+    <string name="hint_content">¿Qué estas pensando?</string>
+    <string name="save">Guardar</string>
+</resources>
